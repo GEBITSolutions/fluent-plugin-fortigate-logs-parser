@@ -1,6 +1,7 @@
 # Fortigate Log Parser for Fluentd
 
 [![Unit Tests](https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser/actions/workflows/unit-test.yml/badge.svg?branch=main)](https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser/actions/workflows/unit-test.yml)
+[![Gem Version](https://badge.fury.io/rb/fluent-plugin-fortigate-logs-parser.svg)](https://badge.fury.io/rb/fluent-plugin-fortigate-logs-parser)
 
 This is a Fluentd plugin to parse the proprietary syslog messages from FortiOS (Fortigate). The plugin is based on a fork, with special thanks to 
 [iliecz](https://github.com/iliecz/fluent-plugin-fortigate-syslog-parser).
