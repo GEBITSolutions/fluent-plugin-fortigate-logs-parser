@@ -3,11 +3,11 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "fluent-plugin-fortigate-logs-parser"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.authors       = ["Rene Lehmann"]
   spec.email         = ["contact@gebit.de"]
   spec.summary       = %q{Parser for Fortigate logs.}
-  spec.homepage      = "https://github.com/iliecz/fluent-plugin-fortigate-syslog-parser"
+  spec.homepage      = "https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
