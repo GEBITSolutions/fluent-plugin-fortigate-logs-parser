@@ -46,7 +46,7 @@ bundle exec rake test
 We welcome community contributions to this collection.
 If you find bugs, then please open an [issue](https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser/issues) or create a [pull request](https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser/pulls).
 
-More information about contributing can be found in the [Contribution Guidelines](https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser/CONTRIBUTING).
+More information about contributing can be found in the [Contribution Guidelines](https://github.com/GEBITSolutions/fluent-plugin-fortigate-logs-parser/blob/main/CONTRIBUTING.md).
 
 ## License
 
